@@ -1,0 +1,22 @@
+Here I have Created a terminal application (CLI app) to manage our contact book using Python
+
+Features of the Contact Book:
+
+Our Contact Book application will be a terminal-based application. 
+Similar to a Todo application, we can perform the following operations on it:
+
+Add (or Create): You can add a new contact in the contact book.
+Show (or Read): You can see all your contacts saved in the contact book.
+Edit (or Update): You can edit the contacts saved in the contact book.
+Remove (or Delete): You can delete the contacts saved in the contact book.
+
+Steps: download the code folder and open CMD and perform following instruction
+
+1. python main.py --help
+2. python main.py show
+3. python main.py add --help
+4. python main.py add "Eeshan" "+91 7543946134"
+5. python main.py add "Mayur" "+91 7218994313"
+6. python main.py edit 1 --name "Eeshan C" --contact-number "+91 7239311343"
+7. python main.py remove 2
+ 
